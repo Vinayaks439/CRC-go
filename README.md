@@ -1,4 +1,4 @@
-# CRC-go
+# CRC-go [![Go](https://github.com/Vinayaks439/CRC-go/actions/workflows/go.yml/badge.svg)](https://github.com/Vinayaks439/CRC-go/actions/workflows/go.yml)
 CRC encode and decode practice in golang
 
 # Usage
